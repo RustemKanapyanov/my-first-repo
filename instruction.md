@@ -19,4 +19,4 @@
 ## Картинки 
 Это апельсин
 
-![orange](orange.png)
+![orange](orange.jpg)
